@@ -109,7 +109,7 @@ st.markdown("""
 )
 
 
-st.logo('images/logo.jpeg', size='large')
+st.logo('images/Reckitt_logo.png', size='large')
 
 # Apply the custom CSS class to the sidebar markdown text
 #st.sidebar.title("Welcome To Our Data Companion Tool")
